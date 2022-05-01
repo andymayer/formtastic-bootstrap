@@ -15,7 +15,7 @@ This version of Formtastic Bootstrap should support the following:
 *Rails*
 
 * Rails 6.x.x
-* 
+ 
 *Formtastic*
 
 * Formtastic 4.x.x
