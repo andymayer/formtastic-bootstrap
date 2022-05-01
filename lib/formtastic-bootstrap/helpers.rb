@@ -2,6 +2,7 @@ module FormtasticBootstrap
   module Helpers
 
     autoload :ActionsHelper, 'formtastic-bootstrap/helpers/actions_helper'
+    autoload :UtilHelper, 'formtastic-bootstrap/helpers/util_helper'
     autoload :ErrorsHelper, 'formtastic-bootstrap/helpers/errors_helper'
     autoload :FieldsetWrapper, 'formtastic-bootstrap/helpers/fieldset_wrapper'
     # autoload :FileColumnDetection, 'formtastic/helpers/file_column_detection'
