@@ -3,10 +3,10 @@ module FormtasticBootstrap
     module UtilHelper
 
       def self.html_safe(text)
-        text.html_safe
+      
+        return text&.html_safe
+        
       end
-
     end
-
   end
 end
