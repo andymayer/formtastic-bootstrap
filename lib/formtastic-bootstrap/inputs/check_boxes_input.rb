@@ -36,6 +36,10 @@ module FormtasticBootstrap
         )
       end
 
+      def hidden_fields?
+        false
+      end
+
     end
   end
 end
