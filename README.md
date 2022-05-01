@@ -1,6 +1,6 @@
 # Formtastic Bootstrap
 
-Forked from mjbellantoni/formtastic-bootstrap to support Rails 6 and Ruby 3.
+Forked from mjbellantoni/formtastic-bootstrap to support Formtastic 4 with Rails 6 and Ruby 3.
 
 ## Getting Started
 
@@ -14,19 +14,15 @@ This version of Formtastic Bootstrap should support the following:
 
 *Rails*
 
-* Rails 3.2.x
-* Rails 4.x.x
-
+* Rails 6.x.x
+* 
 *Formtastic*
 
-* Formtastic 2.2.x
-* Formtastic 2.3.x
+* Formtastic 4.x.x
 
 *Ruby*
 
-* 1.9.2
-* 1.9.3
-* 2.x.x
+* 3.x.x
 
 #### Installation
 
